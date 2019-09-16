@@ -28,6 +28,7 @@ body {
     color: white;
     background-color: rgba(26, 25, 25, 0.623);
     margin: 0.5rem;
+    transition: 70ms ease;
 }
 
 .sound {
@@ -39,4 +40,5 @@ body {
 
 .playing {
     border: 3px solid orange;
+    transform: scale(1.1);
 }
