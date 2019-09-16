@@ -31,8 +31,12 @@ body {
 }
 
 .sound {
-    color: orange;
+    color: rgb(255, 123, 0);
     text-transform: uppercase;
     font-size: 0.7rem;
     font-weight: bold;
+}
+
+.playing {
+    border: 3px solid orange;
 }
